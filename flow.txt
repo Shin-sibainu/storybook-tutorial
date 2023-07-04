@@ -1,0 +1,10 @@
+//https://zenn.dev/sum0/articles/9463d16d9d40e2
+//https://zenn.dev/kolife01/articles/nextjs-typescript-storybook-tailwind
+
+1. npx create-next-app nextjs-with-typescript-tailwind-storybook
+2. tailwind setup
+3. npx sb init
+4. npm run storybook
+5. explain storybook 
+5. preview.js + import globals.css
+6. change button style
